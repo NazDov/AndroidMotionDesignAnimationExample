@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayoutAnimations</string>
+    <string name="lviv_opera_description">Lviv Opera is an opera house located in Lviv, Ukraine\'s
+        largest western city and one of its historic cultural centers. According to the inscription in the theater lobby, the building was constructed between 1897 and 1900,
+        and has remained standing throughout several changes in history. In 2000, the Lviv Opera celebrated its own centennial with another renaming, this time after one of the city's native daughters, Solomiya Krushelnytska,
+        a renowned soprano of the early 20th century.</string>
+    <string name="title">Lviv Opera Theatre</string>
+    <string name="tap_for_info">Tap for info</string>
+</resources>
