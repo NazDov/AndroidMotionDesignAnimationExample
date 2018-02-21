@@ -1,4 +1,4 @@
 # AndroidMotionDesignAnimationExample
 A nice example on how to create motion design animations on Android using android support library capabilities
 
-![DEMO](https://user-images.githubusercontent.com/13189955/36498039-d1db643e-1745-11e8-906c-ed80d5255ce3.gif)
+![DEMO](https://user-images.githubusercontent.com/13189955/36498589-632d6d0a-1747-11e8-8b98-f85ef5f9ab82.gif)
